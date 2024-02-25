@@ -1,0 +1,19 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "p1": "npx ts-node src/p1.ts",
+    "p2": "npx ts-node src/p2.ts",
+    "p3": "npx ts-node src/p3.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^20.11.18",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}
